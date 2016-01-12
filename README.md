@@ -12,7 +12,7 @@ Uses the Raspberry Pi 2 camera to detect motion and identify the person in view.
 
 ## Workflow
 
-There are 3 programs in
+There are 3 programs involved in this workflow which acquires faces, trains a model on the faces and then identifies people and speaks to them.
 
 Program             |  Purpose
 :-------------------------:|:-------------------------:
