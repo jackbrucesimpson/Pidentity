@@ -1,14 +1,14 @@
 # Pidentity
 Uses the Raspberry Pi 2 camera to detect motion and identify the person in view.
 
-![raspberry pi 2 setup](images/pi_setup.png)
-
 ## Features
 
 * Running average motion detection (to take changes in daylight into account)
 * Searches and extracts faces using Haar Cascades (sped up with multiprocessing)
 * Face training and recognition programs using machine learning
 * Text-to-speech greeting when person is identified
+
+![raspberry pi 2 setup](images/pi_setup.png)
 
 ## Workflow
 
